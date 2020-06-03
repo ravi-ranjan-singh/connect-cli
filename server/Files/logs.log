@@ -1,0 +1,116 @@
+Wed,Jun,03,2020,10:33:42   ---->  server has started
+
+Wed,Jun,03,2020,10:34:03   ---->  client connected with socketID qCDXtbpRIG7AMSPxAAAA
+
+Wed,Jun,03,2020,10:34:03   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:34:45   ---->  client connected with socketID ElO6ZA6l66VNM7vCAAAB
+
+Wed,Jun,03,2020,10:34:45   ---->  ls
+
+Wed,Jun,03,2020,10:34:45   ---->  Controllers
+Files
+node_modules
+package.json
+package-lock.json
+server.js
+socketServer.js
+
+
+Wed,Jun,03,2020,10:35:02   ---->  client connected with socketID JbW0bz2eNIl0YyEUAAAC
+
+Wed,Jun,03,2020,10:35:02   ---->  cd ..
+
+Wed,Jun,03,2020,10:35:02   ---->  
+
+Wed,Jun,03,2020,10:35:14   ---->  client connected with socketID zdz64Kb_HsaBRuzRAAAD
+
+Wed,Jun,03,2020,10:35:14   ---->  c ..
+
+Wed,Jun,03,2020,10:35:14   ---->  'c' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+Wed,Jun,03,2020,10:35:43   ---->  client connected with socketID DYpszjwxmQnav6kBAAAE
+
+Wed,Jun,03,2020,10:35:43   ---->  dir
+
+Wed,Jun,03,2020,10:35:43   ---->   Volume in drive C has no label.
+ Volume Serial Number is C8EE-B0F5
+
+ Directory of C:\Users\singh\OneDrive\Desktop\newIntern\server
+
+02-06-2020  23:21    <DIR>          .
+02-06-2020  23:21    <DIR>          ..
+02-06-2020  19:56    <DIR>          Controllers
+02-06-2020  19:56    <DIR>          Files
+02-06-2020  21:05    <DIR>          node_modules
+02-06-2020  21:05            25,723 package-lock.json
+03-06-2020  09:35               306 package.json
+02-06-2020  21:19               329 server.js
+02-06-2020  23:20               854 socketServer.js
+               4 File(s)         27,212 bytes
+               5 Dir(s)  163,336,843,264 bytes free
+
+
+Wed,Jun,03,2020,10:35:52   ---->  client connected with socketID QzPsqt4jey2RwR0RAAAF
+
+Wed,Jun,03,2020,10:35:52   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:35:55   ---->  client connected with socketID PSM8bYNFBXjHv0YsAAAG
+
+Wed,Jun,03,2020,10:35:55   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:35:57   ---->  client connected with socketID roD_FIXucqumUPuQAAAH
+
+Wed,Jun,03,2020,10:35:57   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:35:58   ---->  client connected with socketID XOrSWUiiXczzINRWAAAI
+
+Wed,Jun,03,2020,10:35:58   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:36:00   ---->  client connected with socketID ofKcnwTqNa2EtwXjAAAJ
+
+Wed,Jun,03,2020,10:36:00   ---->  dir
+
+Wed,Jun,03,2020,10:36:00   ---->   Volume in drive C has no label.
+ Volume Serial Number is C8EE-B0F5
+
+ Directory of C:\Users\singh\OneDrive\Desktop\newIntern\server
+
+02-06-2020  23:21    <DIR>          .
+02-06-2020  23:21    <DIR>          ..
+02-06-2020  19:56    <DIR>          Controllers
+02-06-2020  19:56    <DIR>          Files
+02-06-2020  21:05    <DIR>          node_modules
+02-06-2020  21:05            25,723 package-lock.json
+03-06-2020  09:35               306 package.json
+02-06-2020  21:19               329 server.js
+02-06-2020  23:20               854 socketServer.js
+               4 File(s)         27,212 bytes
+               5 Dir(s)  163,331,989,504 bytes free
+
+
+Wed,Jun,03,2020,10:36:06   ---->  client connected with socketID 157iy82NZ94fM2lrAAAK
+
+Wed,Jun,03,2020,10:36:06   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:36:09   ---->  client connected with socketID IMWDCa36PGhmwTdYAAAL
+
+Wed,Jun,03,2020,10:36:09   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:36:11   ---->  client connected with socketID gs27W-i5u7tsgDglAAAM
+
+Wed,Jun,03,2020,10:36:11   ---->  message saved successfully
+
+Wed,Jun,03,2020,10:36:13   ---->  client connected with socketID 3L3MJaTHyt6SW-pOAAAN
+
+Wed,Jun,03,2020,10:36:13   ---->  node -v
+
+Wed,Jun,03,2020,10:36:13   ---->  v10.16.0
+
+
+Wed,Jun,03,2020,10:36:19   ---->  client connected with socketID rJ_cu27tqImQu0PrAAAO
+
+Wed,Jun,03,2020,10:36:19   ---->  message saved successfully
+

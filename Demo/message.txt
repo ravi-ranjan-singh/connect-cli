@@ -1,0 +1,1 @@
+connect-cli -m "Hello",connect-cli -m "everything good",connect-cli -i "dir",connect-cli -i "mkdir newFolder",connect-cli -m "running fine",connect-cli -m "lorem ipsum",connect-cli -i "cd ..",connect-cli -i "node -v",connect-cli -i "cd ..",connect-cli -m "absolutely fast and realiable"
